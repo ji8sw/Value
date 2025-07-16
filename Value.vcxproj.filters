@@ -4,6 +4,6 @@
     <ClCompile Include="Entry.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Value.h" />
+    <ClInclude Include="Value.hpp" />
   </ItemGroup>
 </Project>

@@ -1,11 +1,10 @@
-#include "Value.h"
+#include "Value.hpp"
 #include <iostream>
 #include <thread>
 
 int main()
 {
 	Value::Value New("GameVersion:1.2.3");
-
 	Value::Value New2("HowMuchWoodCouldAWoodChuckChuckIfAWoodChuckCouldChuckWood:329254");
 
 	Value::Set NewSet;
